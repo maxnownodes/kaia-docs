@@ -288,6 +288,26 @@ GetBlock provides fast, reliable API access to full RPC nodes for over 50 major 
 * [Website](https://getblock.io/)
 * [Docs](https://getblock.io/docs/getblock-explorer/get-started/)
 
+### NOWNodes
+
+[NOWNodes](https://nownodes.io/nodes/kaia-kaia) provides managed Kaia RPC infrastructure for developers and production applications without the need to deploy and maintain blockchain nodes.
+
+#### Features
+
+- Kaia Mainnet RPC access
+- Archive mode for historical blockchain data
+- Debug API support
+- Geo-balanced infrastructure with automatic failover
+- No predefined rate limits on paid plans
+- 99.95% uptime
+- 24/7 technical support
+
+#### References
+
+* [Docs](https://docs.nownodes.io/kaia.html)
+* [Website](https://nownodes.io/nodes/kaia-kaia)
+* [Subscription](https://account.nownodes.io/)
+
 ### QuickNode
 
 Quicknode offers blockchain infrastructure powering secure, decentralized innovation. They provide all the tools and resources builders need to create incredible products — all backed by unparalleled, globally-balanced infrastructure, guaranteed reliability and security, a user-friendly interface, and end-to-end customer support.
